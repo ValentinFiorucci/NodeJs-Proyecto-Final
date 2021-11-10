@@ -1,0 +1,28 @@
+.center-card{
+    display: flex;
+    justify-content: center;
+}
+.card-Producto{
+margin-top: 150px;
+width: 450px;
+height: 450px;
+border-style: groove;
+border-color: black;
+border-radius: 5px;
+border-width: 5px;
+}
+.card-img{
+    width: 300px;
+    height: 300px;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+}
+.texto-Card {
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img-Talle{
+    width: 300px;
+}
